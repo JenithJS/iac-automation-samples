@@ -1,0 +1,8 @@
+/terraform-sample
+  └─ main.tf
+
+/bash-scripts
+  └─ deploy.sh
+
+/python-automation
+  └─ cleanup.py
